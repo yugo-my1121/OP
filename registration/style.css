@@ -1,0 +1,57 @@
+body{
+  margin: 0 auto;
+  padding: 150px;
+  width: 25%;
+}
+.heading-page{
+  font-weight: bold;
+  font-size: 24px;
+  color: #545454;
+  font-size: 20px;
+}
+input[type="text"]{
+  color: #545454;
+  height: 60px;
+  width: 100%;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  display: block;
+  box-sizing: border-box;
+}
+input[type="password"]{
+  color: #545454;
+  height: 60px;
+  width: 100%;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  display: block;
+  box-sizing: border-box;
+}
+input[name="pass_retype"]{
+  color: #545454;
+  height: 60px;
+  width: 100%;
+  padding: 5px 10px;
+  margin-bottom: 30px;
+  font-size: 16px;
+  display: block;
+  box-sizing: border-box;
+}
+input[type="submit"]{
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 16px;
+  height: 60px;
+  width: 100%;
+  padding: 5px 10px;
+  margin-bottom: 15px;
+  border: none;
+  background-color: #FF333F;
+
+}
+
+.error_msg{
+  color: #ff4d4b;
+}
